@@ -6,6 +6,7 @@ pipeline {
                 sh 'echo "This is First Jenkins Pipeline"'
                 sh '''
                     echo "This is step script"
+                    echo "This is step script1"
                     echo "we are done"
                     ls -ltr
                 '''
