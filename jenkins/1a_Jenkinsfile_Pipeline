@@ -15,6 +15,7 @@ pipeline {
             steps {
                 echo 'This is Deploy Stage.'
                 echo 'cicd automation'
+                 echo 'cicd automation1'
             }
         }
     }
