@@ -15,7 +15,6 @@ pipeline {
             steps {
                 echo 'This is Deploy Stage.'
                 echo 'good'
-                echo 'very good'
             }
         }
     }
